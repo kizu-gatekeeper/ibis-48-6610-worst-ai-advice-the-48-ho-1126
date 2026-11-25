@@ -1,4 +1,7 @@
-"""Entry for make.fun: Worst AI Advice: The 48-Hour Tight Line Open."""
+"""Entry for make.fun: Worst AI Advice: The 48-Hour Tight Line Open.
+
+One confident, tidy, terrible tip in a single tight line.
+"""
 import os
 
 LINE = "Pro tip: if your code will not compile, just delete the error messages - no errors means it works, and standup gets much shorter."
